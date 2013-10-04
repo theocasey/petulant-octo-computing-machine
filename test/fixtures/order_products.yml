@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  order_id: MyString
+  product_id: MyString
+  price_in_pence: 1
+  quantity: 1
+
+two:
+  order_id: MyString
+  product_id: MyString
+  price_in_pence: 1
+  quantity: 1
